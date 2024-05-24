@@ -1,7 +1,7 @@
 # clone-youtube-css
 Segundo desafio da Trilha de CSS: clonando a página do youtube com CSS
 
-Entendendo o Desafio
+Entendendo o Desafio:
 Neste Desafio tive que colocar a mão na massa e clonar a página do YouTube com CSS colocando em prática todos os conceitos aprendidos, principalmente sobre Flexbox.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
